@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\Tejashri\Desktop\Phase2_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2369775912.index
+\LearningAcademy\src
+C:\Users\Tejashri\Desktop\Phase2_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\800142495.index
+\JSPDemo\src
+C:\Users\Tejashri\Desktop\Phase2_Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1207239963.index
+\JSPDemo\src

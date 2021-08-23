@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629557377471
+opened,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629557377709
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629557377733
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629557416032
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629557636557
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629557645856
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629557645982
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629557646022
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629557890751
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558122996
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558131886
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558160452
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.newWizard",1629558160461
+opened,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629558160516
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629558160537
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1629558160538
+error,log,,,"Errors occurred during the build.",1629558160542
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558160631
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558163751
+started,bundle,org.eclipse.equinox.p2.extensionlocation,1.3.200.v20190716-0939,"org.eclipse.equinox.p2.extensionlocation",1629558201309
+started,bundle,org.eclipse.equinox.p2.updatesite,1.1.200.v20190716-0825,"org.eclipse.equinox.p2.updatesite",1629558202264
+started,bundle,org.eclipse.equinox.p2.publisher,1.5.200.v20190611-1040,"org.eclipse.equinox.p2.publisher",1629558202265
+error,log,,,"No repository found at http://dl.bintray.com/testng-team/testng-p2-release/.",1629558202592
+started,bundle,org.eclipse.equinox.p2.director,2.4.400.v20190701-1309,"org.eclipse.equinox.p2.director",1629558232365
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629558266380
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629558266526
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629558268008
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629558268155
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.edit.copy",1629558332251
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.edit.paste",1629558335021
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.file.save",1629558356084
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1629558356193
+error,log,,,"Errors occurred during the build.",1629558356196
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558356206
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558358259
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.file.save",1629558365491
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1629558365599
+error,log,,,"Errors occurred during the build.",1629558365602
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558365613
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558367392
+activated,editor,org.eclipse.ui.browser,3.6.500.v20190813-2217,"org.eclipse.ui.browser.editor",1629558370926
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629558375014
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629558377478
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558381798
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558383399
+executed,command,org.eclipse.wst.server.ui,1.5.500.v201908161932,"org.eclipse.wst.server.launchShortcut.run",1629558383413
+opened,editor,org.eclipse.ui.browser,3.6.500.v20190813-2217,"org.eclipse.ui.browser.editor",1629558383451
+activated,editor,org.eclipse.ui.browser,3.6.500.v20190813-2217,"org.eclipse.ui.browser.editor",1629558383473
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629558397568
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629558397722
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629558409210
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558413940
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558434257
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.newWizard",1629558434266
+opened,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629558434307
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629558434330
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1629558434345
+error,log,,,"Errors occurred during the build.",1629558434349
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558434430
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558435930
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.file.save",1629558587690
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1629558587791
+error,log,,,"Errors occurred during the build.",1629558587794
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558587804
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558589484
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629558594642
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558601328
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558603084
+executed,command,org.eclipse.wst.server.ui,1.5.500.v201908161932,"org.eclipse.wst.server.launchShortcut.run",1629558603096
+opened,editor,org.eclipse.ui.browser,3.6.500.v20190813-2217,"org.eclipse.ui.browser.editor",1629558603136
+activated,editor,org.eclipse.ui.browser,3.6.500.v20190813-2217,"org.eclipse.ui.browser.editor",1629558603153
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629558616200
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629558616337
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558742544
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558743624
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.file.save",1629558796571
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1629558796675
+error,log,,,"Errors occurred during the build.",1629558796679
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558796689
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558799561
+activated,editor,org.eclipse.ui.browser,3.6.500.v20190813-2217,"org.eclipse.ui.browser.editor",1629558804170
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629558814240
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629558814390
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.file.save",1629558830040
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1629558830145
+error,log,,,"Errors occurred during the build.",1629558830148
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558830157
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558831681
+activated,editor,org.eclipse.ui.browser,3.6.500.v20190813-2217,"org.eclipse.ui.browser.editor",1629558834231
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629558843177
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.file.save",1629558849495
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1629558849611
+error,log,,,"Errors occurred during the build.",1629558849614
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558849623
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558851607
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629558854611
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558858931
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558899128
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.newWizard",1629558899136
+opened,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629558899175
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629558899203
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1629558899216
+error,log,,,"Errors occurred during the build.",1629558899219
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558899298
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629558901019
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.edit.undo",1629559340189
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.edit.copy",1629559341627
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.edit.paste",1629559344048
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.edit.copy",1629559349801
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.edit.paste",1629559353882
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.edit.paste",1629559359423
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.file.save",1629559360746
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1629559360848
+error,log,,,"Errors occurred during the build.",1629559360851
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629559360861
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629559362960
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.file.save",1629559367955
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1629559368058
+error,log,,,"Errors occurred during the build.",1629559368060
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629559368071
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629559369860
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629559373224
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629559378921
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629559380533
+executed,command,org.eclipse.wst.server.ui,1.5.500.v201908161932,"org.eclipse.wst.server.launchShortcut.run",1629559380547
+opened,editor,org.eclipse.ui.browser,3.6.500.v20190813-2217,"org.eclipse.ui.browser.editor",1629559380589
+activated,editor,org.eclipse.ui.browser,3.6.500.v20190813-2217,"org.eclipse.ui.browser.editor",1629559380613
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629559396477
+activated,editor,org.eclipse.ui.browser,3.6.500.v20190813-2217,"org.eclipse.ui.browser.editor",1629559397026
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629559397058
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629559429122
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629559696815
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629559704903
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629559705028
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629559708969
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629559709216
+closed,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629559709223
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629559723723
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629559725678
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629559725684
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629559730120
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629559730265
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629559751978
+opened,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629559752182
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629559752204
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629559757014
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629559757480
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629559760734
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629559760931
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629559764714
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629559764900
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629559786332
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629561227202
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629561230711
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629561238628
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1629561278765
+error,log,,,"Errors occurred during the build.",1629561278770
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629561278783
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.newWizard",1629561278796
+opened,editor,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.CompilationUnitEditor",1629561278876
+activated,editor,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.CompilationUnitEditor",1629561278943
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629561279013
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629561280915
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629561310307
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629561331283
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629561331301
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629561395473
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629561507004
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629561514610
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629561544054
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.newWizard",1629561544064
+opened,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629561544107
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1629561544142
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629561544145
+error,log,,,"Errors occurred during the build.",1629561544146
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629561544222
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629561546292
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629561973855
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629562978373
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.file.save",1629562992483
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1629562992589
+error,log,,,"Errors occurred during the build.",1629562992598
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629562992608
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629562994901
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629563012524
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629563012661
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629563014833
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629563014982
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629563020039
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629563020216
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629563023832
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629563023993
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629563028699
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629563028862
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629563030512
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629563030655
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629563300202
+opened,editor,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.CompilationUnitEditor",1629563303448
+activated,editor,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.CompilationUnitEditor",1629563303505
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629563329719
+opened,editor,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.CompilationUnitEditor",1629563336369
+activated,editor,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.CompilationUnitEditor",1629563336393
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629563340444
+opened,editor,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.CompilationUnitEditor",1629563340657
+activated,editor,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.CompilationUnitEditor",1629563340684
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629563349675
+opened,editor,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.CompilationUnitEditor",1629563349893
+activated,editor,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.CompilationUnitEditor",1629563349920
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629563357986
+activated,editor,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.CompilationUnitEditor",1629563358335
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629563367110
+opened,editor,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.CompilationUnitEditor",1629563368046
+activated,editor,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.CompilationUnitEditor",1629563368076
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629563374871
+opened,editor,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.CompilationUnitEditor",1629563375048
+activated,editor,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.CompilationUnitEditor",1629563375073
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629563401867
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629563412393
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629563415620
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629563415711
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1629563415761
+error,log,,,"Errors occurred during the build.",1629563415764
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629563419004
+executed,command,org.eclipse.wst.server.ui,1.5.500.v201908161932,"org.eclipse.wst.server.launchShortcut.run",1629563419021
+opened,editor,org.eclipse.ui.browser,3.6.500.v20190813-2217,"org.eclipse.ui.browser.editor",1629563419068
+activated,editor,org.eclipse.ui.browser,3.6.500.v20190813-2217,"org.eclipse.ui.browser.editor",1629563419097
+opened,view,org.eclipse.ui.console,3.8.600.v20190815-2020,"org.eclipse.ui.console.ConsoleView",1629563441431
+activated,view,org.eclipse.ui.console,3.8.600.v20190815-2020,"org.eclipse.ui.console.ConsoleView",1629563443789
+activated,editor,org.eclipse.ui.browser,3.6.500.v20190813-2217,"org.eclipse.ui.browser.editor",1629563444011
+closed,view,org.eclipse.ui.console,3.8.600.v20190815-2020,"org.eclipse.ui.console.ConsoleView",1629563444021
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629563503633
+opened,editor,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.CompilationUnitEditor",1629563503838
+activated,editor,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.CompilationUnitEditor",1629563503900
+activated,view,org.eclipse.jdt.ui,3.19.0.v20190827-1733,"org.eclipse.jdt.ui.PackageExplorer",1629563534148
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629563542498
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629563562358
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.newWizard",1629563562370
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1629563562433
+error,log,,,"Errors occurred during the build.",1629563562436
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629563562445
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629563564566
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629563572969
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629563598227
+executed,command,org.eclipse.ui,3.114.0.v20190808-1317,"org.eclipse.ui.newWizard",1629563598238
+opened,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629563598285
+error,log,,,"Problems occurred when invoking code from plug-in: ""org.eclipse.core.resources"".",1629563598315
+error,log,,,"Errors occurred during the build.",1629563598319
+activated,editor,org.eclipse.jst.jsp.ui,1.2.200.v201904272124,"org.eclipse.jst.jsp.core.jspsource.source",1629563598324
+deactivated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629563598432
+activated,workbench,org.eclipse.ui.workbench,3.116.0.v20190826-1428,"",1629563600066

@@ -1,0 +1,13 @@
+127.0.0.1 - - [23/Aug/2021:22:25:30 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [23/Aug/2021:22:25:31 +0530] "GET /LearningAcademy/Home.jsp HTTP/1.1" 200 2507
+0:0:0:0:0:0:0:1 - - [23/Aug/2021:22:25:31 +0530] "GET /LearningAcademy/img/photo-.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Aug/2021:22:25:38 +0530] "GET /LearningAcademy/Registration.jsp HTTP/1.1" 200 3115
+0:0:0:0:0:0:0:1 - - [23/Aug/2021:22:25:38 +0530] "GET /LearningAcademy/img/reg.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Aug/2021:22:26:29 +0530] "POST /LearningAcademy/Registre HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Aug/2021:22:26:29 +0530] "GET /LearningAcademy/Home.jsp HTTP/1.1" 200 2507
+0:0:0:0:0:0:0:1 - - [23/Aug/2021:22:26:45 +0530] "POST /LearningAcademy/LoginServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [23/Aug/2021:22:26:45 +0530] "GET /LearningAcademy/LoginWelcome.jsp HTTP/1.1" 200 1464
+0:0:0:0:0:0:0:1 - - [23/Aug/2021:22:26:45 +0530] "GET /LearningAcademy/img/blank1.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Aug/2021:22:26:57 +0530] "GET /LearningAcademy/Student.jsp HTTP/1.1" 200 3015
+0:0:0:0:0:0:0:1 - - [23/Aug/2021:22:26:57 +0530] "GET /LearningAcademy/img/blank.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Aug/2021:22:27:42 +0530] "GET /LearningAcademy/Registration.jsp HTTP/1.1" 200 3115
